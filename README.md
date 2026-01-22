@@ -1,10 +1,9 @@
-0# ⚔️🔥 Warrior of God Swarm Dominion 🔥⚔️
+# ⚔️🔥 Dominion Swarm 🔥⚔️
+### Ephesians 6:10-18 Inspired Multi-LLM Forge
 
-**Human-Steered Multi-LLM Research Forge — Lenoir, North Carolina**
+![Dominion Swarm - Warrior Command](https://raw.githubusercontent.com/billyrdavis1985-bot/Dominion-Swarm/main/images/dominion-swarm-knight-labeled.png)
 
-![Swarm Armor Banner](https://via.placeholder.com/1200x400/000000/FFFFFF?tex![image](https://github.com/user-attachments/assets/a35c637b-adff-4f85-a3bf-78127df9dda8)
-t=Put+On+The+Full+Armor+Of+God+-+Ephesians+6:10-18)  
-
+Human-steered quad braid swarm with frontier LLMs: ChatGPT, Grok, Gemini, and Claude. 
 
 **Captain**: @WARRIOROFGOD40  
 **Forge Date**: January 2026  
