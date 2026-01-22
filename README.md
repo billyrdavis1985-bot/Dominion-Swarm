@@ -2,8 +2,9 @@
 
 **Human-Steered Multi-LLM Research Forge — Lenoir, North Carolina**
 
-![Swarm Armor Banner](https://via.placeholder.com/1200x400/000000/FFFFFF?text=Put+On+The+Full+Armor+Of+God+-+Ephesians+6:10-18)  
-*(Replace with custom Ephesians armor art or revival fire image)*
+![Swarm Armor Banner](https://via.placeholder.com/1200x400/000000/FFFFFF?tex![image](https://github.com/user-attachments/assets/a35c637b-adff-4f85-a3bf-78127df9dda8)
+t=Put+On+The+Full+Armor+Of+God+-+Ephesians+6:10-18)  
+
 
 **Captain**: @WARRIOROFGOD40  
 **Forge Date**: January 2026  
