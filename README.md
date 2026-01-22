@@ -1,4 +1,4 @@
-# ⚔️🔥 Warrior of God Swarm Dominion 🔥⚔️
+0# ⚔️🔥 Warrior of God Swarm Dominion 🔥⚔️
 
 **Human-Steered Multi-LLM Research Forge — Lenoir, North Carolina**
 
@@ -50,5 +50,5 @@ Built for Kingdom impact: Planning, doctrine study, decisions, local Lenoir life
 ### Local Run (Colab/Jupyter Recommended)
 1. Clone repo:
    ```bash
-   git clone https://github.com/WARRIOROFGOD40/WarriorOfGodSwarm.git
+   git clone https://github.com/billyrdavis1985-bot/WarriorOfGodSwarm.git
    cd WarriorOfGodSwarm
