@@ -3,6 +3,8 @@
 
 ![Dominion Swarm - Warrior Command](https://raw.githubusercontent.com/billyrdavis1985-bot/Dominion-Swarm/main/images/dominion-swarm-knight-labeled.png)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/Dominion-Swarm/blob/main/Dominion-Swarm.ipynb)
+
 Human-steered quad braid swarm with frontier LLMs: ChatGPT, Grok, Gemini, and Claude. 
 
 **Captain**: @WARRIOROFGOD40  
@@ -19,9 +21,6 @@ The Warrior of God Swarm Dominion is a human-captained AI augmentation tool that
 - **Human-in-the-loop dominion** — you approve/reject/refine
 
 Built for Kingdom impact: Planning, doctrine study, decisions, local Lenoir life, revival fire brainstorming.
-
-**Live Demo**: [Insert Gradio/Replit/HF Link Here]  
-*(Update with your deployed URL)*
 
 ## Features
 
@@ -50,4 +49,4 @@ Built for Kingdom impact: Planning, doctrine study, decisions, local Lenoir life
 ### Local Run (Colab/Jupyter Recommended)
 1. Clone repo:
    ```bash
-   git clone https://github.com/billyrdavis1985-bot/Dominion-Swarm.ipynb.git
+   git clone https://github.com/billyrdavis1985-bot/Dominion-Swarm.git
