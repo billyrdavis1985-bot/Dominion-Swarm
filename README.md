@@ -1,7 +1,6 @@
-# ⚔️🔥 Dominion Swarm 🔥⚔️
-### Ephesians 6:10-18 Inspired Multi-LLM Forge
+# ⚔️🔥 Dominion Swarm 🔥⚔️ 
 
-![Dominion Swarm - Warrior Command](https://raw.githubusercontent.com/billyrdavis1985-bot/Dominion-Swarm/main/images/dominion-swarm-knight-labeled.png)
+Inspired Multi-LLM Forge
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/Dominion-Swarm/blob/main/Dominion-Swarm.ipynb)
 
