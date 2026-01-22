@@ -50,5 +50,4 @@ Built for Kingdom impact: Planning, doctrine study, decisions, local Lenoir life
 ### Local Run (Colab/Jupyter Recommended)
 1. Clone repo:
    ```bash
-   git clone https://github.com/billyrdavis1985-bot/Dominion-Swarm.git
-   cd WarriorOfGodSwarm
+   git clone https://github.com/billyrdavis1985-bot/Dominion-Swarm.ipynb
