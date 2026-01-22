@@ -1,14 +1,21 @@
 # ⚔️🔥 Dominion Swarm 🔥⚔️ 
-
 Inspired Multi-LLM Forge
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/Dominion-Swarm/blob/main/Dominion-Swarm.ipynb)
+📌 Dominion-Swarm
+
+A configurable Python package for orchestrating multiple LLMs and synthesizing a final answer from their outputs — useful for ensembles, multi-solver workflows, and hybrid critic loops.
+
+🚀 Features
+
+✔ Run multiple LLMs in parallel
+✔ Optional automated scoring of outputs
+✔ Modular structure for adding new models
+✔ Example script included
 
 Human-steered quad braid swarm with frontier LLMs: ChatGPT, Grok, Gemini, and Claude. 
 
 **Captain**: @WARRIOROFGOD40  
-**Forge Date**: January 2026  
-**Inspiration**: Ephesians 6 — Put on the full armor of God to stand against the devil's schemes. Swarm braid as spiritual weapons: truth, righteousness, gospel peace, faith, salvation, Word.
+**Forge Date**: January 2026 
 
 ## Project Overview
 
@@ -48,4 +55,24 @@ Built for Kingdom impact: Planning, doctrine study, decisions, local Lenoir life
 ### Local Run (Colab/Jupyter Recommended)
 1. Clone repo:
    ```bash
-   git clone https://github.com/billyrdavis1985-bot/Dominion-Swarm.git
+  
+git clone https://github.com/billyrdavis1985-bot/Dominion-Swarm.git  
+cd Dominion-Swarm  
+python3 -m venv venv  
+source venv/bin/activate  
+pip install -r requirements.txt
+
+python examples/example_run.py
+
+## 📓 Notebook Demo (Optional)
+
+An experimental Google Colab notebook is included for exploration and prototyping.
+This notebook is **not the primary interface** and may lag behind the main codebase.
+
+Use it if you want to:
+- Explore the swarm logic interactively
+- Test ideas quickly without local setup
+
+For production or serious use, run the Python modules directly.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/Dominion-Swarm/blob/main/Dominion-Swarm.ipynb)
+
